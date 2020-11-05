@@ -1,0 +1,323 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: #f6f5f1;
+}
+
+.green {
+    background-color: #8db596 !important;
+    height: 40px;
+    font-size: 12px;
+    font-weight: 1000;
+}
+
+
+
+.hImage{
+    background-image: url("https://res.cloudinary.com/forhims/image/upload/q_auto,f_auto,fl_lossy/Hims/homepage-test/Hims-m-Home-Hero-Packages2");
+    width: 100%;
+    padding: 20% 0 20% 5%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.des2{
+    text-align: center;
+    padding: 8%;
+}
+
+.des {
+    text-align: center;
+    padding: 8% 0 0 0;
+}
+
+.des h1 {
+    font-size: 2rem;
+}
+
+.des img{
+    margin-top: 100px;
+}
+
+.button {
+    padding: 15px 55px;
+    border: none;
+    margin-left: 100px;
+    background-color: black;
+    color: white;
+}
+
+.hair img {
+    width: 50%;
+    height: auto;
+    position: absolute;
+    right: 0;
+    top: 50px;
+}
+
+.men h1 {
+    padding-left: 40px;
+}
+
+.paddingg {
+    margin-left: 100px;
+    line-height: 2;
+    margin-right: 100px;
+}
+
+.des2 {
+    background-color: #f6f5f1;
+}
+
+.abc {
+    position: relative; 
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.men {
+    width: 55%;
+    background-color: white;
+    padding: 200px 0 220px 0;
+}
+
+.pink {
+    background-color: #fcf1f1;
+}
+
+.savoir {
+    margin: 30px auto;
+    text-align: center;
+    padding: 50px 0;
+    background-color: white;
+    box-shadow: 3px 4px 5px rgba(0, 0, 0, .25);
+}
+
+.last{
+    position: relative;
+}
+
+.last img {
+    width: 96%;
+    height: auto;
+    display: flex;
+    position: absolute;
+    left: 50px;
+    padding: 100px 0;
+}
+
+.border {
+    padding: 150px 50px;
+    border: 10px solid black;
+    background-color: white;
+    text-align: center;
+    margin: 15px;
+}
+
+.final {
+    width: 100%;
+    height: auto;
+}
+
+.purple {
+    background-color: rgb(213, 218, 222);
+    margin-top: 50px;
+}
+
+.purple p {
+    padding-top: 30%;
+    padding-left: 100px;
+    padding-right: 70px;
+    line-height: 1.5;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+.navbar2 {
+    margin-top: 40px;
+}
+
+.navbar3 {
+    margin-top: 80px;
+}
+
+.four-pics {
+    margin-top: 174px;
+    margin-bottom: 100px;
+}
+
+.left {
+    
+    padding: 80px 50px 80px 30px;
+}
+
+.left h1{
+    font-size: 2.1rem;
+    font-weight: bolder;
+}
+
+.four-pics img {
+    width: 100%;
+    height: auto;
+}
+
+.first {
+    background-color: #fad5ad;
+}
+
+.first:hover {
+    background-color: #f7dad9;
+    cursor: pointer;
+}
+
+.third {
+    background-color: #c4b6b6;   
+}
+
+.third:hover {
+    background-color: #cdc9c3;  
+    cursor: pointer; 
+}
+
+
+.second {
+    background-color: #bbbfca;
+}
+
+.second:hover {
+    background-color: #d9e4dd;
+    cursor: pointer;
+}
+
+
+.fourth {
+    background-color: #ff9a8c;
+}
+
+.fourth:hover {
+    background-color: #fff8cd;
+    cursor: pointer;
+}
+
+
+.card-body {
+    padding: 50px 0 0 0;
+}
+
+.hairloss, .skincare {
+    margin-top: 23px;
+}
+
+.card-body h5 {
+    padding-left: 20px;
+}
+
+.card {
+    border-width: 0;
+}
+
+.cares {
+    margin: 10px 30px;
+}
+
+.lastcard {
+    width: 400px;
+    padding: 60px 40px;
+    border: 20px solid rgb(213, 218, 222);
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 60px 0;
+}
+
+footer ul {
+    list-style-type: none;
+}
+
+.foot li {
+    color: white;
+    font-size: 1.7rem;
+}
+
+.foot a:hover {
+    color: #ac4b1c !important;
+}
+
+.lastcard a {
+    color: black !important;
+    font-size: 10px;
+    font-weight: bold;
+    padding-top: 30px;
+    border-bottom: 2px solid black;
+}
+
+.lastcard a:hover {
+    text-decoration: none !important;
+}
+
+.men a {
+    color: black !important;
+    font-size: 10px;
+    font-weight: bold;
+    padding-top: 30px;
+    border-bottom: 2px solid black;
+}
+
+.savoir a {
+    color: black !important;
+    font-size: 10px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+.savoir p {
+    color: #ff9a8c;
+}
+
+.men a:hover {
+    text-decoration: none !important;
+}
+
+.lastcard p {
+    color: #ff9a8c;
+    padding-bottom: 30px;
+}
+
+.lastcard h2{
+    font-size: 1.5rem;
+    padding-bottom: 50px;
+}
+
+@media (max-width: 1028px) {
+    .abc, .last {
+        /* position: fixed; */
+        /* position: static;
+        transform: rotate(0);
+        text-align: center; */
+    }
+
+    .hair img {
+        position: static;
+        width: 100%;
+    }
+    .last img {
+        position: static;
+        width: 100%;
+    }
+
+    .men, .savoir {
+        width: 100%;
+    }
+}
